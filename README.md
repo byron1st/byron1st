@@ -13,4 +13,4 @@
 
 ### Links
 
-![Blog](https://img.shields.io/badge/-Blog-%2321759B?style=flat&logo=wordpress&link=https://morphism0.wordpress.com)
+[![Blog](https://img.shields.io/badge/-Blog-%2321759B?style=flat&logo=wordpress&link=https://morphism0.wordpress.com)](https://morphism0.wordpress.com)
