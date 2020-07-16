@@ -1,16 +1,16 @@
-### Hi there 👋
+### Blockchain-based Software System Architect
 
-<!--
-**byron1st/byron1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Blockchain-based software system architect in [bigpicturelabs](https://bigpicturelabs.io)
+* Fullstack developer using Go and TypeScript
 
-Here are some ideas to get you started:
+### Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Hyperledger Fabric
+* React, React Native 
+* Go, MongoDB
+* Docker, Docker Swarm
+* Software Architecture, Software Engineering
+
+<div align=center>
+  [![Tech Blog Badge](http://img.shields.io/badge/-Blog-#21759B?style=flat&logo=wordpress&link=https://morphism0.wordpress.com)](https://morphism0.wordpress.com)
+</div>
