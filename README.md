@@ -11,6 +11,3 @@
 * Docker, Docker Swarm
 * Software Architecture, Software Engineering
 
-<div align=center>
-  [![Tech Blog Badge](http://img.shields.io/badge/-Blog-#21759B?style=flat&logo=wordpress&link=https://morphism0.wordpress.com)](https://morphism0.wordpress.com)
-</div>
