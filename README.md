@@ -13,4 +13,4 @@
 
 ### Links
 
-[velog](https://velog.io/@byron1st)
+[블로그(velog)](https://velog.io/@byron1st)
