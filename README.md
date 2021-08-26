@@ -13,4 +13,5 @@
 
 ### Links
 
+[프로필(mysetting)](https://mysetting.io/u/byron1st)
 [블로그(velog)](https://velog.io/@byron1st)
