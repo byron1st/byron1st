@@ -5,10 +5,12 @@
 
 ### Interest
 
-* Hyperledger Fabric
-* React, React Native 
-* Go, MongoDB
-* Docker, Docker Swarm
+* Hyperledger Fabric, Ethereum
+* [Fiber](https://gofiber.io), [Fastify](https://www.fastify.io)
+* React, React Native
+* Go, TypeScript
+* MongoDB
+* Docker
 * Software Architecture, Software Engineering
 
 ### Links
