@@ -6,10 +6,10 @@
 ### Interest
 
 * Hyperledger Fabric, Ethereum
-* [Fiber](https://gofiber.io), [Fastify](https://www.fastify.io)
+* [Next.js](https://nextjs.org), [Fiber](https://gofiber.io), [Fastify](https://www.fastify.io)
 * MongoDB, Fibebase
 * React, React Native
-* [Tailwind CSS](https://tailwindcss.com), [Material UI](https://mui.com), [React Native Paper](https://reactnativepaper.com)
+* [Stitches](https://stitches.dev), [Chakra UI](https://chakra-ui.com)
 * Go, TypeScript
 * Docker
 * Software Architecture, Software Engineering
