@@ -9,7 +9,6 @@
 * [Next.js](https://nextjs.org), [Fiber](https://gofiber.io), [Fastify](https://www.fastify.io)
 * MongoDB, Fibebase
 * React, React Native
-* [Stitches](https://stitches.dev), [Chakra UI](https://chakra-ui.com)
 * Go, TypeScript
 * Docker
 * Software Architecture, Software Engineering
