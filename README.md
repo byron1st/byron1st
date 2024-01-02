@@ -1,7 +1,7 @@
 ### Blockchain-based Software System Architect
 
-* Blockchain-based software system architect and developer at [bigpicturelabs](https://bigpicturelabs.io)
-* Fullstack developer using Go and TypeScript
+* Blockchain-based software system architect and developer
+* Fullstack developer using Go and Node.js (TypeScript)
 
 ### Interest
 
