@@ -1,4 +1,4 @@
-### Blockchain-based Software System Architect
+### Blockchain-based Software System Developer
 
 * Blockchain-based software system architect and developer
 * Fullstack developer using Go and Node.js (TypeScript)
