@@ -1,12 +1,14 @@
-### Blockchain-based Software System Developer
+### Software engineer & Researcher
 
-* Blockchain-based software system architect and developer
-* Fullstack developer using Go and Node.js (TypeScript)
+* Fullstack developer using Go, Node.js, and React
+  * Specialized for blockchain-based software system
+* Software engineering researcher
+  * Specialized for software architecture reconstruction
 
-### Interest
+### Interests
 
 * Hyperledger Fabric, Ethereum
-* [Next.js](https://nextjs.org), [Fiber](https://gofiber.io), [Fastify](https://www.fastify.io)
+* Node.js (Fastify, Next.js)
 * MongoDB, Fibebase
 * React, React Native
 * Go, TypeScript
@@ -16,5 +18,5 @@
 ### Links
 
 * [홈페이지](https://www.hwia.dev)
-* [프로필(mysetting)](https://mysetting.io/u/byron1st)
 * [블로그(velog)](https://velog.io/@byron1st)
+* [프로필(mysetting)](https://mysetting.io/u/byron1st)
