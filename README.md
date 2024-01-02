@@ -17,6 +17,7 @@
 
 ### Links
 
-* [홈페이지](https://www.hwia.dev)
-* [블로그(velog)](https://velog.io/@byron1st)
-* [프로필(mysetting)](https://mysetting.io/u/byron1st)
+* Homepage: [www.hwia.dev](https://www.hwia.dev)
+* Blog: [velog.io/@byron1st](https://velog.io/@byron1st)
+* LinkedIn: [www.linkedin.com/in/hwiahn](https://www.linkedin.com/in/hwiahn)
+* Profile: [mysetting.io/u/byron1st](https://mysetting.io/u/byron1st)
