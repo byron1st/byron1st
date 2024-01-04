@@ -5,7 +5,7 @@
 * Software engineering researcher
   * Specialized for software architecture reconstruction
 
-### Interests
+### Interest
 
 * Hyperledger Fabric, Ethereum
 * Node.js (Fastify, Next.js)
